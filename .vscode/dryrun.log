@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'd:/PRO-PHOTO/codecanyon-wowonder-the-ultimate-php-social-network-platform/wowonder'
+make: Leaving directory 'd:/PRO-PHOTO/codecanyon-wowonder-the-ultimate-php-social-network-platform/wowonder'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
