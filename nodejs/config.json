@@ -1,8 +1,8 @@
 {
     "sql_db_host": "localhost",
-    "sql_db_user": "root",
-    "sql_db_pass": "",
-    "sql_db_name": "wowonder",
-    "site_url": "http://localhost:3000",
+    "sql_db_user": "adminavfreex",
+    "sql_db_pass": "adminavfreex@123456789",
+    "sql_db_name": "avfreex",
+    "site_url": "https://x.avfreex24.com",
     "purchase_code": "uvluxhb4x0nngagk"
 }
